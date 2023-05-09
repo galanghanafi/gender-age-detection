@@ -9,7 +9,7 @@ python project that is gender and age detection with OpenCV
 * clone this repository
 
 ```bash
-  git clone 
+  git clone https://github.com/galanghanafi/gender-age-detection
 ```
 * install OpenCv 
 
